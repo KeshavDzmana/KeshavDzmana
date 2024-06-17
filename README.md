@@ -1,4 +1,5 @@
-i have created this program for my python project
+i have created this program as my python project
+
 import pygame
 import time
 import random
